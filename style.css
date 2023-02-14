@@ -1,0 +1,133 @@
+*{
+    box-sizing: border-box;
+    margin: auto;
+    width: 1200px;
+}
+
+.box1{
+background-color: #ccc;
+height:250px;
+margin-bottom: 20px;
+}
+
+.logo img{
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 20px 30px;
+}
+
+.redes img{
+    width: 50px;
+    height:50px;
+    float: right;
+    margin-top:100px;
+    margin-right: 20px;
+}
+
+.menu{
+    display: inline-block;
+    text-align: center;
+    margin-bottom:30px;
+
+}
+
+.opc{
+    text-decoration: none;
+    text-align: center;
+    background-color:brown;
+    color: white;
+    font-size: 25px;
+    border-radius: 15px;
+    padding:10px 25px;
+    margin: 25px;
+
+}
+
+.box3{
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: -450px;
+   background-image: url(/imagenes/fototec.jpg);
+   margin-bottom: 30px;
+}
+
+.parrafo{
+    display: inline-block;
+    width: 300px;
+    margin: 60px 500px;
+    background-color: black;
+    text-align: center;
+    color:azure;
+    font-weight: bold;
+    font-size:20px;
+    
+}
+.box4{
+    
+    margin-bottom: 20px;
+    height: 300px;
+    
+}
+.imagen1{
+
+    width: 500px;
+    margin-left: 100px;
+    float: left;
+}
+
+.imagen1 img{
+    width: 100%;
+}
+.text{
+    width: 500px;
+    text-align: justify; 
+    margin-right: 70px;
+    float: right;
+    
+}
+
+.text p{
+    width: 500px;
+}
+
+.tec1{
+    color: goldenrod;
+}
+
+.title h2{
+    text-align: center;
+    color: goldenrod;
+}
+.box5{
+    margin-bottom: 20px;
+}
+
+.box6{
+    background-color: brown;
+    height: 200px;
+    
+}
+
+.logo2{
+    width: 500px;
+    float: left;
+}
+
+.picture2{
+    width: 150px;
+    height: 150px;
+    margin-top: 25px;
+    margin-left: 200px;
+    
+}
+
+.text2{
+    width: 500px;
+    color: antiquewhite;
+    float: right;
+    margin-top: 40px;
+    margin-right: 100px;
+
+}
